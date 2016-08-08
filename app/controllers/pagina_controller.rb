@@ -5,4 +5,7 @@ class PaginaController < ApplicationController
   def residuos
   	
   end
+  def mecanica
+  	
+  end
 end
